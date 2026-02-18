@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rakesh</h1>
+<h1 align="center">Hi , I'm Rakesh</h1>
 <h3 align="center">🚀 Aspiring Full Stack Developer | Fresher | Building Real-World Projects</h3>
 
 ---
