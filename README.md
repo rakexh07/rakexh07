@@ -1,14 +1,14 @@
 <h1 align="center">Hi , I'm Rakesh</h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer | Fresher | Building Real-World Projects</h3>
+<h3 align="center"> Aspiring Full Stack Developer | Fresher | Building Real-World Projects</h3>
 
 
-## 💫 About Me
-- 🔭 I’m currently working on building personal projects and improving my development skills  
-- 👯 I’m looking to collaborate on open-source and beginner-friendly projects  
-- 🤝 I’m looking for help with improving coding best practices and gaining industry-level experience  
-- 🌱 I’m currently learning modern web development, React.js, and full-stack development  
-- 💬 Ask me about frontend development and my learning journey  
-- ⚡ Fun fact: I love learning by building real projects and experimenting with new ideas  
+##  About Me
+-  I’m currently working on building personal projects and improving my development skills  
+-  I’m looking to collaborate on open-source and beginner-friendly projects  
+-  I’m looking for help with improving coding best practices and gaining industry-level experience  
+-  I’m currently learning modern web development, React.js, and full-stack development  
+-  Ask me about frontend development and my learning journey  
+-  Fun fact: I love learning by building real projects and experimenting with new ideas  
 
 ## 🌐 Connect With Me
 <p align="left">
