@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/portrait.svg" width="260" alt="Rakesh" />
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Rakesh;Aspiring+Full+Stack+Developer;Fresher+%7C+Building+Real-World+Projects" alt="typing banner" />
 
 <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
